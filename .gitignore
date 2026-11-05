@@ -26,3 +26,10 @@ Project Outputs*/
 
 # Folder to save each comparison results
 CompareHistory/
+### STM32 firmware ###
+# CubeIDE build output
+EP/Debug/
+EP/Release/
+
+### macOS ###
+.DS_Store
